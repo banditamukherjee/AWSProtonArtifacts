@@ -1,0 +1,4 @@
+#!bin/bash
+
+echo "Hello world! Hi all !"
+echo "This is our first shell script"
